@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ChristianBreitkreutz/wurst/issues"
+      },
+      "homepage" : "https://github.com/ChristianBreitkreutz/wurst",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ChristianBreitkreutz/wurst.git",
+         "web" : "https://github.com/ChristianBreitkreutz/wurst"
+      }
+   },
    "version" : "0.01",
    "x_serialization_backend" : "JSON::PP version 2.27400"
 }

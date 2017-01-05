@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/ChristianBreitkreutz/wurst.svg?branch=master)](https://travis-ci.org/ChristianBreitkreutz/wurst)
 # NAME
 
 wurst - It's new $module
